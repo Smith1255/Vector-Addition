@@ -1,6 +1,18 @@
 #BlueJ class context
-comment0.params=args
-comment0.target=void\ main(java.lang.String[])
-comment1.params=methSide\ methHypotenuse\ methDir
-comment1.target=java.lang.String\ vectorCalc(double,\ double,\ java.lang.String)
-numComments=2
+comment0.params=Distance\ Direction
+comment0.target=Vector(double,\ java.lang.String)
+comment1.params=str
+comment1.target=boolean\ isNumeric(java.lang.String)
+comment2.params=Direction
+comment2.target=double\ cardinalToAngle(java.lang.String)
+comment3.params=
+comment3.target=double\ calcNorthValue()
+comment4.params=
+comment4.target=double\ calcEastValue()
+comment5.params=
+comment5.target=double\ getNorth()
+comment6.params=
+comment6.target=double\ getEast()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8
